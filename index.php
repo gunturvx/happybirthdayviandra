@@ -31,7 +31,9 @@
 				</div> 
 			</div>
 		</div>	
-		<script type="text/javascript" src="HappyBirthday.js"></script>
 	</body>
 
 </html>
+<?php
+<script type="text/javascript" src="HappyBirthday.js"></script>
+?>
